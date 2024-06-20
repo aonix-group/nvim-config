@@ -1,4 +1,1 @@
-# 💤 LazyVim
-
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+wget -O - https://raw.githubusercontent.com/aonix-group/nvim-config/main/install.sh | sudo bash
